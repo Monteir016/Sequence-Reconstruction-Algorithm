@@ -45,13 +45,13 @@ The program outputs:
 
 ## How to Build
 
-To compile the project, use the provided `Makefile`. Run the following commands:
+To compile the project, run the following commands:
 
 `g++ -std=c++17 -o Project1 [Project1.c++]`
 
 ##Dependencies
 C++17 or later
-Standard libraries: <iostream>, <vector>, <algorithm>, <unordered_set>
+Standard libraries: `<iostream>`, `<vector>`, `<algorithm>`, `<unordered_set>`
 
 Author
 Developed by Guilherme Monteiro. For more information, visit [GitHub profile](https://github.com/Monteir016).
